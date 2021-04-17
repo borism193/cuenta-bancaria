@@ -1,3 +1,4 @@
+#ejercicio 1
 class Carta
     attr_reader :numero, :pinta
 
